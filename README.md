@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OllieSClark
+- 👋 Hi, I’m @OllieSClark. I'm 16 from the UK.
 - 👀 I’m interested in software engineering, web development, machine learning and AI. All things coding!! 
 - 🌱 I’m currently learning Computer science, Maths, Further maths and Physics at ALevel.
 - 💞️ I’m looking to collaborate on anything and everything.
